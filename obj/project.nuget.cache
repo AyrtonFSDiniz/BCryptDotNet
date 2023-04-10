@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tK3wPr+a/pdB6jCpgjnjMtGz2XgJSUGQW2LLMnKQlBR6N0u46K2p+7TiRQhSF1NOd7/fcVvRBHWBvW4hhsU3Mg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ayrton.diniz\\Desktop\\Treino .NET\\BCryptDotNet\\BCryptDotNet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ayrton.diniz\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

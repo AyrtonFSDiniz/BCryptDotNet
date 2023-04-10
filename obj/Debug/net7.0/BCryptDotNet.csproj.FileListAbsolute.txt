@@ -1,0 +1,17 @@
+C:\Users\ayrton.diniz\Desktop\Treino .NET\BCryptDotNet\bin\Debug\net7.0\BCryptDotNet.exe
+C:\Users\ayrton.diniz\Desktop\Treino .NET\BCryptDotNet\bin\Debug\net7.0\BCryptDotNet.deps.json
+C:\Users\ayrton.diniz\Desktop\Treino .NET\BCryptDotNet\bin\Debug\net7.0\BCryptDotNet.runtimeconfig.json
+C:\Users\ayrton.diniz\Desktop\Treino .NET\BCryptDotNet\bin\Debug\net7.0\BCryptDotNet.dll
+C:\Users\ayrton.diniz\Desktop\Treino .NET\BCryptDotNet\bin\Debug\net7.0\BCryptDotNet.pdb
+C:\Users\ayrton.diniz\Desktop\Treino .NET\BCryptDotNet\bin\Debug\net7.0\BCrypt.Net-Next.dll
+C:\Users\ayrton.diniz\Desktop\Treino .NET\BCryptDotNet\obj\Debug\net7.0\BCryptDotNet.csproj.AssemblyReference.cache
+C:\Users\ayrton.diniz\Desktop\Treino .NET\BCryptDotNet\obj\Debug\net7.0\BCryptDotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayrton.diniz\Desktop\Treino .NET\BCryptDotNet\obj\Debug\net7.0\BCryptDotNet.AssemblyInfoInputs.cache
+C:\Users\ayrton.diniz\Desktop\Treino .NET\BCryptDotNet\obj\Debug\net7.0\BCryptDotNet.AssemblyInfo.cs
+C:\Users\ayrton.diniz\Desktop\Treino .NET\BCryptDotNet\obj\Debug\net7.0\BCryptDotNet.csproj.CoreCompileInputs.cache
+C:\Users\ayrton.diniz\Desktop\Treino .NET\BCryptDotNet\obj\Debug\net7.0\BCryptDotNet.csproj.CopyComplete
+C:\Users\ayrton.diniz\Desktop\Treino .NET\BCryptDotNet\obj\Debug\net7.0\BCryptDotNet.dll
+C:\Users\ayrton.diniz\Desktop\Treino .NET\BCryptDotNet\obj\Debug\net7.0\refint\BCryptDotNet.dll
+C:\Users\ayrton.diniz\Desktop\Treino .NET\BCryptDotNet\obj\Debug\net7.0\BCryptDotNet.pdb
+C:\Users\ayrton.diniz\Desktop\Treino .NET\BCryptDotNet\obj\Debug\net7.0\BCryptDotNet.genruntimeconfig.cache
+C:\Users\ayrton.diniz\Desktop\Treino .NET\BCryptDotNet\obj\Debug\net7.0\ref\BCryptDotNet.dll
